@@ -1,0 +1,28 @@
+SwitchToPowerUpPanellButton/Power Up upgrade/Улучшение усилений/
+SwitchToStatsPanellButton/Stats upgrade/Улучшение параметров/
+PowerUpPnaelDescription/Each upgrade increase power up duration by 0.5 sec./каждое улучшение усиления увеличивает его продолжительность на пол секунды/
+StatsPanelDescription/Each revenu and clean speed upgade increase it current power by 10%, and each time upgrade increase time limit for mission by 10 sec/Каждое улучшение скорочти уборки и поулучаемых доходов увеличивает их текущее значение на 10%, а каждое улучшение времени дает дополнительные 10 секунд на уборку/
+BackButton/Back/Назад/
+SmashedText/YOU CRUSHED INTO A CUSTOMER!/ВЫ ВРЕЗАЛИСЬ В ПОСЕТИТЕЛЯ!/
+WatchAddAndContinueButton/Watch Ad and continue!/Посмотрите данный ролик, чтобы продолжить!/ 
+GoHomeButton/Go home/Домой/
+PressMeButton/press me.../нажми меня.../
+FirstMenuTutorText/Here you can watch Ad and double your rewards for missions for next 2 hours./ /
+SecondMenuTutorText/This is your home, you can manage your stats here./ /
+ThirdMenuTutorText/This is your workplace, ckick here to start your job./ /
+HomeTutor/Here you can upgrade your stats and power ups duratiuon./ / 
+WorkTutor/This is your working time, when it ends, you will automatically lose. When you clean a trash bag, you get extra work time and rewards, the larger the trash bag, the harder it is to clean and the more reward you get. Using the controller on the left, you can choose the direction of movement, and to move, you need to click on the right side of the screen. /Это ваше рабочее время, когда оно закончится, вы автоматически проиграете. Когда вы чистите мешок для мусора, вы получаете дополнительное рабочее время и наградуб, чем больше мешок для мусора, тем его сложнее чистить и тем большую награду вы получите. С помощью контролеера слева вы можете выбрать направление движения, а для передвижения нужно нажать на правую часть экрана. /
+SpeedUpTutor/This is Speed Up power up, it doubles your movement speed./ /
+CleanSpeedUpTutor/This is Clean Speed Up power up it doubles your clean speed./ /
+RevenuTutor/This is Reward Up power up it doubles your reward./ /
+PassTutor/This is Pass power up it allows your to pass through the customers without heartbreaking./ /
+MegaphoneTutor/This is Megaphone power up it allows to freeze customers on their places for power up duration./ /
+HeartTutor/This is your health. Each time, when you smash into a customer you lose 1 heart, if it reach 0 you'll lose. You can also up your health with Med Kit power up./ /
+SpeedUpDiscription/Speed up/ /
+CleanSpeedUpDiscription/Clean speed up/ /
+RevenuUpDiscription/Revenu up/ /
+PassDiscription/Pass/ /
+MegaphoneDiscription/Megaphone/ /
+RevenuStatDiscription/Revenu/ /
+CleanSpeedStatDiscription/Clean speed/ /
+TimeDiscription/Time/ /
